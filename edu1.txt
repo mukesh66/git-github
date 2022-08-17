@@ -1,0 +1,2 @@
+My first git practice session
+hi there
